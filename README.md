@@ -16,3 +16,10 @@ Numpy:
 Pandas:
 ------------------------------
 1.[Series](https://github.com/CongyuAlexXu/blog/blob/master/Pandas/Series.md)
+
+
+
+Others
+------------------------------
+1.[给dataframe加边框]()
+
